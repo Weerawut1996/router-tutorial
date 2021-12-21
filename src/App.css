@@ -1,0 +1,14 @@
+
+.Head{
+    border-bottom: 1px solid;     
+    padding-bottom: 1rem;
+     margin: 1rem auto; /*top-bottom 1rem|right-left auto */
+}
+h1{
+    display: inline;
+    margin: 2rem;
+}
+.nav{display: inline;}
+.nav > li{
+    display: inline;
+}
